@@ -11,6 +11,7 @@ Y2_single.txt -- Individual splitting parameter pair for each teleseismic event
 
 ## Method
 Seimi-auto Shear Wave Splitting measurement (SSWS)
+
 The detailed sources for it will come soon.
 
 ## Reference
