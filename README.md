@@ -2,7 +2,7 @@
 
 Several results for Shear Wave Splitting observations
 
-## Description
+### Description
 For example, station = Y2
 
 Y2_stack.txt -- Stacking results for each station
