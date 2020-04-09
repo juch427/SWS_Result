@@ -1,4 +1,4 @@
-#Readme
+## Readme
 
 This is the shear wave splitting measurements of the XA array in Bhutan Himalaya, including:
 
