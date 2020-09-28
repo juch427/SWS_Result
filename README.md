@@ -10,7 +10,7 @@ Y2_stack.txt -- Stacking results for each station
 Y2_single.txt -- Individual splitting parameter pair for each teleseismic event
 
 ## Method
-Seimi-auto Shear Wave Splitting measurement (SSWS)
+Seimi-auto Shear Wave Splitting measurement (MatSplit)
 
 ## Reference
 [1] Ju C., Zhao J., Huang N., Xu Q., Liu H. (2019). Seismic anisotropy of the crust and upper mantle beneath western Tibet revealed by shear wave splitting measurements. Geophysical Journal International, 216(1): 535-544.
